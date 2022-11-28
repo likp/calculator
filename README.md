@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://scbpetros.visualstudio.com/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/likp.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://scbpetros.visualstudio.com/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=5&branchName=refs%2Fpull%2F1%2Fmerge)
